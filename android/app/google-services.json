@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "334480616493",
+    "project_id": "freshguard-8a14f",
+    "storage_bucket": "freshguard-8a14f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334480616493:android:44b9e35129cdc64f485ca4",
+        "android_client_info": {
+          "package_name": "com.freshguard.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334480616493-tocgbk70pv5cssrg0uviqbdvc0olvvu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcfqB754j6t6etsHCknGQA6yLXW77-8Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334480616493-tocgbk70pv5cssrg0uviqbdvc0olvvu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334480616493:android:a5c54c25843b49ff485ca4",
+        "android_client_info": {
+          "package_name": "com.freshguard.freshguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334480616493-tocgbk70pv5cssrg0uviqbdvc0olvvu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcfqB754j6t6etsHCknGQA6yLXW77-8Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334480616493-tocgbk70pv5cssrg0uviqbdvc0olvvu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
